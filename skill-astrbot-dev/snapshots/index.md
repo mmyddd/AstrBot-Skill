@@ -2,6 +2,7 @@
 
 这里存放按 AstrBot Tag 归档的文档快照。
 
+- [v4.29.0-beta.2](/snapshots/v4.29.0-beta.2/)
 - [v4.26.2](/snapshots/v4.26.2/)
 - [v4.26.1](/snapshots/v4.26.1/)
 - [v4.26.0-beta.9](/snapshots/v4.26.0-beta.9/)
